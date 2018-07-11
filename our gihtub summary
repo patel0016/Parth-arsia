@@ -1,0 +1,14 @@
+first create a repo on github
+copy the address
+clone it to your local machine (any folder that you like):
+git clone <address>
+
+go to that cloned folder (which is your repository)
+
+once you have added some files then do the following:
+
+git add .
+git commit -m "<comment>"
+git push origin <branch-name>
+
+check online if you like to verify the changes
